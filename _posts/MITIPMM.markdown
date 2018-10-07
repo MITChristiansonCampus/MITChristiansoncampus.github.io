@@ -1,12 +1,10 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: MIT IPMM
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
+modal-id: 1
+date: 2016-11-12
+img: MIT IPMM 1.png
+thumbnail: MIT IPMM Flyer.png
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
