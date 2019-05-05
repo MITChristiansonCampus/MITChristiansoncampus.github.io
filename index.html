@@ -175,7 +175,7 @@ title: MIT Christians on Campus
 	<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Previous Events</a></p>
 	<div class="seconds">
 	    {% assign sorted_posts = site.categories.previous-events | sort:"date" | reverse %}
-		{% for post in sorted_posts limit:2 %}
+		{% for post in sorted_posts limit:4 %}
 			<li>
 				<img src="{{ post.featured_image}}"/>
 				<div class="post-content">
