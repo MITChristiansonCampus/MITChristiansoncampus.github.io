@@ -1,7 +1,7 @@
 ---
 title: Bible Study
-date-time: 'Thursdays | 8:30 PM - 9:30 PM'
-location: McCormick Hall Penthouse Room
+date-time: 'Thursdays | 8:00 PM - 9:00 PM'
+location: 'Rm 303, Stratton Student Center'
 featured_image: /uploads/exodus.png
 categories:
   - upcoming-events
