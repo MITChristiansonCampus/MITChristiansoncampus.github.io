@@ -8,4 +8,4 @@ categories:
 
 That I may gain Christ\!
 
-![](/uploads/0817.jpg){: width="4850" height="3298"}![](/uploads/0956.jpg){: width="1880" height="1252"}
+![](/uploads/0817.jpg){: width="4850" height="3298"}
