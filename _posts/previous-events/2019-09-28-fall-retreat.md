@@ -7,5 +7,3 @@ categories:
 ---
 
 That I may gain Christ\!
-
-![](/uploads/0817.jpg){: width="4850" height="3298"}
