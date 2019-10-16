@@ -1,6 +1,6 @@
 ---
 title: Welcome Dinner
-date: Invalid date
+date: 2019-02-07 07:00:00
 featured_image: /uploads/DSC06564.jpg
 categories:
   - previous-events
