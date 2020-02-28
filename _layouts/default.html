@@ -6,9 +6,13 @@
 
 		{% seo %}
 
-		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
-		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link href="https://fonts.googleapis.com/css?family=Playfair+Display&display=swap" rel="stylesheet">		
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+		
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 			<script>
 				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -19,30 +23,36 @@
 		{% endif %}
 	</head>
 	<body>
-		<nav class="navbar" id = "home">
-            <span class="navbar-toggle" id="js-navbar-toggle">
-                    <i class="fa fa-bars" style = "color:darkred"></i>
-                </span>
-            <img src = "/images/logo.png" style = "height: 150px">
-            <ul class="main-nav" id="js-menu">
-              <li>
-                <a href="#home" class="nav-links">Home</a>
-              </li>
-              <li>
-                <a href="#about-us" class="nav-links" target = "_parent">About Us</a>
-              </li>
-              <li>
-                <a href="https://mitchristiansoncampus.github.io/#our-faith" class="nav-links" target = "_top">Our Faith</a>
-              </li>
-              <li>
-                <a href="#upcoming-events" class="nav-links">Events</a>
-              </li>
-              <li>
-                <a href="#contact-us" class="nav-links">Contact Us</a>
-              </li>
-            </ul>
-          </nav>
-		<div class="content">
+		<nav class="navbar" style="background-color: #791f19; color: white;">
+		<div class="container-fluid">
+			<a class="navbar-brand" href="#">
+				<img src="images/logo.jpg" alt="" height="100px">
+				<span>MIT Christians on Campus</span>
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item active">
+				<a class="nav-link" href="#">Home
+						<span class="sr-only">(current)</span>
+					</a>
+				</li>
+				<li class="nav-item">
+				<a class="nav-link" href="#">About</a>
+				</li>
+				<li class="nav-item">
+				<a class="nav-link" href="#">Services</a>
+				</li>
+				<li class="nav-item">
+				<a class="nav-link" href="#">Contact</a>
+				</li>
+			</ul>
+			</div>
+		</div>
+		</nav>
+		<div class="container-fluid">
 			{{ content }}
 		</div>
 		<footer>

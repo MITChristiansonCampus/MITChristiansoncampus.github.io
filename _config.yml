@@ -33,6 +33,8 @@ collections:
     upcoming-events:
 
 permalink: pretty
+sass:
+  sass_dir: css
 
 future: true
 defaults:
