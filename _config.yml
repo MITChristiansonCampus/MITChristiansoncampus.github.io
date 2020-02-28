@@ -34,6 +34,7 @@ collections:
 
 permalink: pretty
 
+future: true
 defaults:
   -
     scope:
