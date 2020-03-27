@@ -2,7 +2,7 @@
 title: IPMM
 date-time: 'Mondays | 8:00 PM - 9:00 PM'
 location: 'Science Center, Hall D, Harvard University'
-featured_image: /images/S_2020/ipmm_harvard.jpg
+featured_image: /images/S_2020/ipmm_harvard_ppl.jpg
 categories:
   - previous-events
 ---
