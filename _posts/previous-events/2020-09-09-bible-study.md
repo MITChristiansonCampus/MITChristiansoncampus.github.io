@@ -6,7 +6,7 @@ featured_image: /images/F_2020/bs_story.png
 categories:
   - upcoming-events
 ---
-The reflection between the first two and the last two chapters of the Bible show us the story of God\! We covered:
+The reflection between the first two and the last two chapters of the Bible shows us the story of God\! We covered:
 
 1. Image
 2. Dominion
