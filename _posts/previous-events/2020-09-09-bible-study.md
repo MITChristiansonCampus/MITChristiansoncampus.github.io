@@ -4,7 +4,7 @@ date-time: Wednesdays | 9:00 PM - 10:00 PM EDT
 location: Zoom Meeting
 featured_image: /images/F_2020/bs_story.png
 categories:
-  - upcoming-events
+  - previous-events
 ---
 The reflection between the first two and the last two chapters of the Bible shows us the story of God\! We covered:
 
