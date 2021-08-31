@@ -6,4 +6,4 @@ featured_image: /images/F_2020/gn.png
 categories:
   - previous-events
 ---
-[https://mit.zoom.us/j/93800808960](https://mit.zoom.us/j/93800808960)
+Among us, Secret Hitler, Fishbowl, Skribbl.io, and more\!
