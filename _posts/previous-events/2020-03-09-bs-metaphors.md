@@ -7,3 +7,4 @@ categories:
   - previous-events
 ---
 
+In the book of 2 Corinthians Paul uses a series of metaphors to describe what it means to be a Christian. A picture is worth a thousand words and these pictures brought us into a deeper knowing and appreciation of who we are. We covered captives, fragrance, letters, mirrors, vessels, new creation, ambassadors, temple, soldiers, virgins, and parents.
