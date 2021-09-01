@@ -135,7 +135,7 @@ title: MIT Christians on Campus
 	<h2 class="editable">Upcoming Events</h2>
 	<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Upcoming Events</a></p>
 	<div class="upcoming">
-		{% for post in site.categories.upcoming-events %}
+		{% for post in site.categories.upcoming-events reversed %}
 		    <div class="columns">
 		        <div>
 				    <img src="{{ post.featured_image}}" />
