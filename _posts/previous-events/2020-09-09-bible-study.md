@@ -7,15 +7,4 @@ categories:
   - upcoming-events
 ---
 The reflection between the first two and the last two chapters of the Bible shows us the story of God\! We covered:
-
-1. Image
-2. Dominion
-3. Vessels
-4. The Tree of Life
-5. Rivers
-6. Stones
-7. A Couple
-8. The Fall
-9. The Cross
-10. The Church
-11. The City
+image, dominion, vessels, the tree of life, rivers, stones, a couple, the fall, the cross, the church, and the city.
