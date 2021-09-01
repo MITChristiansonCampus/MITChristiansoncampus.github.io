@@ -7,3 +7,4 @@ categories:
   - previous-events
 ---
 
+A wonderful semester of covering fundamental topics concerning our faith. We covered God's plan of salvation, regeneration, baptism, assurance and joy of salvation, the mingled spirit, reading the Bible, prayer, the blood, companions in the Lord, witnessing, meeting, growth in Christ, and consecration.
